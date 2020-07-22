@@ -1,5 +1,5 @@
 
-#### Intro :
+#### Intro
 
 I am a Software Engineer & Open Source Contributor who loves to think outside the box and coming up with elegant solutions to complex problems.
 
@@ -9,7 +9,7 @@ I love this industry. It is my passion, and I want to continue developing the sk
 - :pencil2: I write technology related content on my [blog](https://cse031sust02.github.io/)
 - 📫 Reach me: [twitter](http://twitter.com/cse031sust02), [LinkedIn](https://www.linkedin.com/in/talhasust/)
 
-#### SKILLS :
+#### Skills :
 - **Programming Languages** :  Python, PHP, Javascript
 - **Frameworks** : Django, Flask, Laravel, CodeIgniter
 - **Web Technologies** : REST, Web Sockets
