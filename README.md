@@ -14,4 +14,5 @@ I love this industry. It is my passion, and I want to continue developing the sk
 - **Frameworks** : Django, Flask, Laravel, CodeIgniter
 - **Web Technologies** : REST, Web Sockets
 - **Data Management** : MySQL, PostgreSQL, MongoDB, Redis
-- **AWS Technologies** : IAM, VPC, EC2, RDS, S3, Elasticache 
+- **AWS Technologies** : IAM, VPC, EC2, RDS, S3, Elasticache
+- **DevOps** : Linux, Docker, Ansible
