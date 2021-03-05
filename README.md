@@ -7,7 +7,7 @@ I love this industry. It is my passion, and I want to continue developing the sk
 
 - 🔭 I’m currently working at [IDARE](https://idare.io/) as Team Lead.
 - :pencil2: I write technology related content on my [blog](https://cse031sust02.github.io/)
-- 📫 Reach me: [twitter](http://twitter.com/cse031sust02), [LinkedIn](https://www.linkedin.com/in/talhasust/)
+- 📫 Reach me: [Twitter](http://twitter.com/cse031sust02), [LinkedIn](https://www.linkedin.com/in/talhasust/)
 
 #### Skills :
 - **Programming Languages** :  Python, PHP, Javascript
